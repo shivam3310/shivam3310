@@ -5,7 +5,7 @@
 
 - 💼 I’m currently working as a **Data Engineer** for **TEKsystems**
 
-- 🌱 Building scalable data pipelines using ***Hadoop, Azure, Scala, Python, Spark, Power BI***
+- 🌱 Building scalable data solutions using ***Hadoop, Azure, Scala, Python, Spark, Power BI***
 
 - 💬 Feel free to contact me **shivamgupta.da@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 💼 I’m currently working as a **Data Engineer for TEKsystems**
+- 💼 I’m currently working as a **Data Engineer** for **TEKsystems**
 
 - 🌱 Building scalable data pipelines using ***Hadoop, Azure, Scala, Python, Spark, Power BI***
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences at [https://bit.ly/shivam-gupta-cv](https://bit.ly/shivam-gupta-cv)
 
-- ⚡ Fun fact **I can turn any boring stuff into numbers and data**
+- ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

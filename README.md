@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 - 💼 I’m currently working as a **Data Engineer for TEKsystems**
 
 - 🌱 I specialize in building scalable data pipelines using ***Hadoop, Azure, Scala, Python, Spark, Power BI***

@@ -13,20 +13,6 @@
 
 - ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
 
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  table, th, td {
-    border: none;
-  }
-</style>
-
-<table>
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

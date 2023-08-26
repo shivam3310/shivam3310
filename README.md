@@ -7,7 +7,7 @@
 
 - 💼 I’m currently working as a **Data Engineer** for **TEKsystems**
 
-- 🌱 Building scalable data solutions using ***Hadoop-based technologies and Azure Data Services***
+- 🌱 Building scalable data solutions using ***Hadoop-based technologies and      Azure Data Services***
 
 - 💬 Feel free to contact me **shivamgupta.da@gmail.com**
 

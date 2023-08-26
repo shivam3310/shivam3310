@@ -13,6 +13,16 @@
 
 - ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
 
+<style>
+  /* Remove table borders */
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border: none;
+  }
+</style>
+
 <table>
   <tr>
     <td>&nbsp;</td>

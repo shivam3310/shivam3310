@@ -14,6 +14,7 @@
 - 📄 Know about my experiences at [https://bit.ly/shivam-gupta-cv](https://bit.ly/shivam-gupta-cv)
 
 - ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
+
 <br>
 
 <h3 align="left">Connect with me:</h3>

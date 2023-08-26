@@ -3,17 +3,18 @@
 
 - 💼 I’m currently working as a **Data Engineer for TEKsystems**
 
-- 🌱 I specialize in constructing scalable data pipelines using **Hadoop, Azure Cloud, Scala, Python, Power BI**
+- 🌱 I specialize in building scalable data pipelines using ***Hadoop, Azure, Scala, Python, Spark, Power BI***
 
 - 💬 Feel free to contact me **shivamgupta.da@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFsq8SpAn8/QM7-6iIXuFUUSlaQrfrDVg/view?utm_content=DAFsq8SpAn8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFsq8SpAn8/QM7-6iIXuFUUSlaQrfrDVg/view?utm_content=DAFsq8SpAn8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences at [https://bit.ly/shivam-gupta-cv](https://bit.ly/shivam-gupta-cv)
 
 - ⚡ Fun fact **I can turn any boring stuff into numbers and data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-gpta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-gpta/" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@sg9997688903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@sg9997688903" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/shivam3310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shivam3310" height="30" width="40" /></a>
 </p>
 

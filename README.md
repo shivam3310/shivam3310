@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+![image](https://github.com/shivam3310/shivam3310/assets/54907699/00650fba-e5b2-4dae-a78e-533a01249587)<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
@@ -12,6 +12,12 @@
 - 📄 Know about my experiences at [https://bit.ly/shivam-gupta-cv](https://bit.ly/shivam-gupta-cv)
 
 - ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
+
+<table>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

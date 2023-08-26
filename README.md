@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
 
+
+
+
+
+
+
 <br>
 
 <h3 align="left">Connect with me:</h3>

@@ -9,9 +9,9 @@
 
 - 🌱 Building scalable data solutions using ***Hadoop-based technologies & Azure Services***
 
-- 💬 Feel free to contact me: shivamgupta.da@gmail.com
+- 💬 Feel free to contact me: **shivamgupta.da@gmail.com**
 
-- 📄 Know about my experiences: [https://bit.ly/shivam-gupta-cv](https://bit.ly/shivam-gupta-cv)
+- 📄 Know about my experiences: **[https://bit.ly/shivam-gupta-cv](https://bit.ly/shivam-gupta-cv)**
 
 - ⚡ Fun fact: **I can turn any boring stuff into numbers and data**
 

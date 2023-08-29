@@ -1,6 +1,6 @@
 ![Untitled design](https://github.com/shivam3310/shivam3310/assets/54907699/3999e286-79b5-453d-82f9-b45a11680b23)
 
-<h1 align="center">Hi there, I'm <span style="font-family: 'Courier New', sans-serif;">Shivam</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
+<h1 align="center">Hi there, I'm Shivam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 
 <h3 align="center">A passionate Data Enthusiast from India 🇮🇳 </h3>
 
